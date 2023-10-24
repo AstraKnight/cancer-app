@@ -5,7 +5,7 @@ The primary use case for this application is in the field of cancer research, sp
 It allows users to input measurements taken from tissue samples, visualize the characteristics of cell clusters, and receive predictions regarding their malignancy.
 
 ## Features
-**Real-time prediction**: The application provides instant predictions based on the input measurements and the trained logistic regression model.
-**Input flexibility**: The input measurements can be obtained either automatically from lab equipment or entered manually. In the real world, the real use of such app would be to plug it to a cytology lab in a Cancer Research Institute.
-**Visualization**: The app offers visual representations of the cell clusters based on the input measurements, aiding researchers in understanding the characteristics of the samples.
-**Prediction**: The app predicts whether the cell cluster is benign or malignant, which is crucial information in cancer research.
+- **Real-time prediction**: The application provides instant predictions based on the input measurements and the trained logistic regression model.
+- **Input flexibility**: The input measurements can be obtained either automatically from lab equipment or entered manually. In the real world, the real use of such app would be to plug it to a cytology lab in a Cancer Research Institute.
+- **Visualization**: The app offers visual representations of the cell clusters based on the input measurements, aiding researchers in understanding the characteristics of the samples.
+- **Prediction**: The app predicts whether the cell cluster is benign or malignant, which is crucial information in cancer research.
